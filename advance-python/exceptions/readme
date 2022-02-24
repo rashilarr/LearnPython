@@ -1,0 +1,10 @@
+ Errors and Exceptions in python
+ Errors in python
+     execution of code is terminated when it encounters the error
+     errors can be either syntax error (or) exception
+
+ In this chapter we are going to learn 
+     what is the difference between syntax error and exceptions
+     what are all the most common built in exceptions available
+     how can we raise and handle the exceptions
+     how can we define our own exceptions 

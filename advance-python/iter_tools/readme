@@ -1,0 +1,13 @@
+Itertools : 
+ 
+ Itertools module is a collection of tools for handling iterators 
+ simply put iterators are datatypes that can be used in a for loop for example
+the most common iterators is the list
+ The itertools offers some advanced tools and they are
+   1. Product
+   2. Permutations
+   3. Combinations
+   4. accumulate
+   5. groupby
+   6. infinite iterators
+
